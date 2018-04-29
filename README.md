@@ -1,2 +1,2 @@
-# Public
-Public root repo
+# Windows
+Public files to support Windows training
